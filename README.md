@@ -24,8 +24,7 @@ The pipeline includes comprehensive Data Preprocessing, Feature Engineering, Hyp
 5. **Experiment Tracking:** Using **MLflow** to log parameters, track model metrics (RMSE, R²), and save learning curve visualizations.
 
 ## 🧪 Models Implemented
-- Linear Regression (Baseline)
-- Random Forest Regressor
+
 - **LightGBM Regressor** (Tuned)
 - **XGBoost Regressor** (Tuned)
 - 🏆 **Ultimate Voting Ensemble** (LightGBM + XGBoost)
