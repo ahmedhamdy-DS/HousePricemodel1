@@ -32,7 +32,7 @@ The pipeline includes comprehensive Data Preprocessing, Feature Engineering, Hyp
 
 ## ✅ Best Performance
 - **Winning Model:** Voting Ensemble Regressor 
-- **R² Score:** 0.97+ (Validation Set)
+- **R² Score:** 0.90 
 - **Evaluation Metric:** Root Mean Squared Error (RMSE) & Log Error (RMSLE).
 
 ## 📁 Repository Structure
